@@ -1,2 +1,8 @@
 # Recognising-Textual-Entailment-using-Decomposable-Attention
-My implementation of  " A Decomposable Attention Model for Natural Language Inference " paper  for Recognising Textual Entailment Challenges
+This repo contains my implementation code to the paper of **A Decomposable Attention Model for Natural Language Inference**  for Recognising Textual Entailment Challenges.
+- link of the paper: [click here](https://arxiv.org/pdf/1606.01933.pdf).
+- model Architecture: ![model arch](https://github.com/fatma-mohamed-98/Recognising-Textual-Entailment-using-Decomposable-Attention/blob/main/model_Arch.png).
+- Results:
+  - Test Accuracy on SNLI dataset: %83.80.
+  - Train/Validation loss: ![loss](https://github.com/fatma-mohamed-98/Recognising-Textual-Entailment-using-Decomposable-Attention/blob/main/train_valid_loss.png).
+  - Train/Validation Acc: ![acc](https://github.com/fatma-mohamed-98/Recognising-Textual-Entailment-using-Decomposable-Attention/blob/main/train_valid_acc.png).
