@@ -1,7 +1,3 @@
-'''
-you can download the trained model from here:
-https://drive.google.com/file/d/1QPoRI-o_Z19EpZ8OTCd3UqUeXXst7Dy7/view?usp=sharing
-'''
 from libraries import re, pd, pad_sequences, tf, Tokenizer, pickle
 from config import *
 from model import *
