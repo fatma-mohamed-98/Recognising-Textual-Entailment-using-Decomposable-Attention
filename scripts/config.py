@@ -5,9 +5,6 @@ https://drive.google.com/file/d/1-MczqBGYsMqu4B9GKMatM9LF8jhAW6qj/view?usp=shari
 2- download snli data from here:
 https://data.deepai.org/snli_1.0.zip
 
-3- also you can download the trained model instead of repeating the training process from here:
-https://drive.google.com/file/d/1QPoRI-o_Z19EpZ8OTCd3UqUeXXst7Dy7/view?usp=sharing
-
 '''
 
 max_length = 25
